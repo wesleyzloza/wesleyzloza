@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Feel free to take a look around, most of what I work on is private unfortunatly 😞.
+Feel free to take a look around. Unfortunately, most of what I work on is private 😞.
 
 About Me:
 - 🎓 I'm a Mechanical Engineer and Software Developer.
